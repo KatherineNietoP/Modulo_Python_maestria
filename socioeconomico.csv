@@ -1,0 +1,23 @@
+﻿cod_prov;Provincia;monto_prest;tipo_cuot
+1;Azuay;2291410,99;Cuota fija
+2;Bolivar;654425;Cuota fija
+3;Cañar;843836,71;Cuota fija
+4;Carchi;743820;Cuota fija
+6;Chimborazo;930375;Cuota fija
+5;Cotopaxi;1304926;Cuota variable
+7;El Oro;1664224;Cuota fija
+8;Esmeraldas;401700;Cuota fija
+20;Galápagos;1033155;Cuota variable
+9;Guayas;1253599,6;Cuota fija
+10;Imbabura;755558,99;Cuota fija
+11;Loja;714787;Cuota fija
+12;Los Rios;372973,46;Cuota fija
+15;Napo;879519,68;Cuota fija
+22;Orellana;533960;Cuota variable
+16;Pastaza;979485,63;Cuota fija
+17;Pichincha;3528729,44;Cuota fija
+24;Santa Elena;368364,99;Cuota fija
+23;Santo Domingo de los Tsachilas;609399,68;Cuota fija
+21;Sucumbios;391964;Cuota fija
+18;Tungurahua;1547880;Cuota fija
+19;Zamora Chinchipe;610498;Cuota variable

@@ -1,0 +1,177 @@
+[
+    {
+        "Cod_Prov":1,
+        "Provincia":"AZUAY",
+        "Zonal":"Zona 6",
+        "Total_Docentes":11130,
+        "Total_Estudiantes":189698
+    },
+    {
+        "Cod_Prov":2,
+        "Provincia":"BOLIVAR",
+        "Zonal":"Zona 5",
+        "Total_Docentes":2896,
+        "Total_Estudiantes":46893
+    },
+    {
+        "Cod_Prov":3,
+        "Provincia":"CAÑAR",
+        "Zonal":"Zona 6",
+        "Total_Docentes":3222,
+        "Total_Estudiantes":57407
+    },
+    {
+        "Cod_Prov":4,
+        "Provincia":"CARCHI",
+        "Zonal":"Zona 1",
+        "Total_Docentes":2384,
+        "Total_Estudiantes":38444
+    },
+    {
+        "Cod_Prov":6,
+        "Provincia":"CHIMBORAZO",
+        "Zonal":"Zona 3",
+        "Total_Docentes":7149,
+        "Total_Estudiantes":108868
+    },
+    {
+        "Cod_Prov":5,
+        "Provincia":"COTOPAXI",
+        "Zonal":"Zona 3",
+        "Total_Docentes":6259,
+        "Total_Estudiantes":111834
+    },
+    {
+        "Cod_Prov":7,
+        "Provincia":"EL ORO",
+        "Zonal":"Zona 7",
+        "Total_Docentes":8876,
+        "Total_Estudiantes":166937
+    },
+    {
+        "Cod_Prov":8,
+        "Provincia":"ESMERALDAS",
+        "Zonal":"Zona 1",
+        "Total_Docentes":8228,
+        "Total_Estudiantes":157657
+    },
+    {
+        "Cod_Prov":20,
+        "Provincia":"GALAPAGOS",
+        "Zonal":"Zona 5",
+        "Total_Docentes":490,
+        "Total_Estudiantes":7360
+    },
+    {
+        "Cod_Prov":9,
+        "Provincia":"GUAYAS",
+        "Zonal":"Zona 5",
+        "Total_Docentes":46185,
+        "Total_Estudiantes":1038829
+    },
+    {
+        "Cod_Prov":10,
+        "Provincia":"IMBABURA",
+        "Zonal":"Zona 1",
+        "Total_Docentes":6499,
+        "Total_Estudiantes":115171
+    },
+    {
+        "Cod_Prov":11,
+        "Provincia":"LOJA",
+        "Zonal":"Zona 7",
+        "Total_Docentes":7914,
+        "Total_Estudiantes":112356
+    },
+    {
+        "Cod_Prov":12,
+        "Provincia":"LOS RIOS",
+        "Zonal":"Zona 5",
+        "Total_Docentes":9648,
+        "Total_Estudiantes":220955
+    },
+    {
+        "Cod_Prov":13,
+        "Provincia":"MANABI",
+        "Zonal":"Zona 4",
+        "Total_Docentes":20748,
+        "Total_Estudiantes":394439
+    },
+    {
+        "Cod_Prov":14,
+        "Provincia":"MORONA SANTIAGO",
+        "Zonal":"Zona 6",
+        "Total_Docentes":3457,
+        "Total_Estudiantes":64450
+    },
+    {
+        "Cod_Prov":15,
+        "Provincia":"NAPO",
+        "Zonal":"Zona 2",
+        "Total_Docentes":2771,
+        "Total_Estudiantes":41058
+    },
+    {
+        "Cod_Prov":22,
+        "Provincia":"ORELLANA",
+        "Zonal":"Zona 2",
+        "Total_Docentes":3124,
+        "Total_Estudiantes":57510
+    },
+    {
+        "Cod_Prov":16,
+        "Provincia":"PASTAZA",
+        "Zonal":"Zona 3",
+        "Total_Docentes":2077,
+        "Total_Estudiantes":35012
+    },
+    {
+        "Cod_Prov":17,
+        "Provincia":"PICHINCHA",
+        "Zonal":"Zona 2",
+        "Total_Docentes":38490,
+        "Total_Estudiantes":682355
+    },
+    {
+        "Cod_Prov":24,
+        "Provincia":"SANTA ELENA",
+        "Zonal":"Zona 5",
+        "Total_Docentes":4708,
+        "Total_Estudiantes":103397
+    },
+    {
+        "Cod_Prov":23,
+        "Provincia":"SANTO DOMINGO DE LOS TSACHILAS",
+        "Zonal":"Zona 4",
+        "Total_Docentes":6237,
+        "Total_Estudiantes":133249
+    },
+    {
+        "Cod_Prov":21,
+        "Provincia":"SUCUMBIOS",
+        "Zonal":"Zona 1",
+        "Total_Docentes":3441,
+        "Total_Estudiantes":61166
+    },
+    {
+        "Cod_Prov":18,
+        "Provincia":"TUNGURAHUA",
+        "Zonal":"Zona 3",
+        "Total_Docentes":6830,
+        "Total_Estudiantes":128435
+    },
+    {
+        "Cod_Prov":19,
+        "Provincia":"ZAMORA CHINCHIPE",
+        "Zonal":"Zona 7",
+        "Total_Docentes":2228,
+        "Total_Estudiantes":32981
+    },
+    {
+        "Cod_Prov":90,
+        "Provincia":"ZONA EN ESTUDIO",
+        "Zonal":"Zona en Estudio",
+        "Total_Docentes":39,
+        "Total_Estudiantes":358
+    }
+]
