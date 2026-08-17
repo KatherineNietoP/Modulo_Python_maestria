@@ -10,7 +10,6 @@ README – Diseñar un flujo analítico reproducible
 
 El proyecto integra información proveniente de diferentes fuentes de datos para realizar un proceso reproducible de lectura, validación, transformación, integración y generación de resultados.
 
-========================================================================
 
 
 2. Fuentes de datos
@@ -20,7 +19,6 @@ El proyecto integra información proveniente de diferentes fuentes de datos para
 •	educacion.json
 
 
-========================================================================
 
 3. Estructura del proyecto
 
@@ -32,7 +30,7 @@ tarea_educacion/
     ├── raw_versions/
     ├── processed/
     └── outputs/
-===========================================================================
+
 
 4. Proceso realizado
 
@@ -47,31 +45,31 @@ tarea_educacion/
 9.	Cálculo de la tasa de docentes por cada 100 estudiantes.
 10.	Generación y auditoría de los archivos finales.
 
-=======================================================================
+
 5. Clave de integración
 
 La variable cod_provincia se utiliza como clave común para integrar las diferentes fuentes. El código se estandariza a dos dígitos mediante zfill(2).
 
-=======================================================================
+
 
 6. Variable derivada
 
 Se calcula la variable tasa_docente_estu, que representa la cantidad de docentes por cada 100 estudiantes:
 tasa_docente_estu = (Total_Docentes / Total_Estudiantes) × 100
 
-========================================================================
+
 7. Resultados generados
 
 •	consolidado_provincial_informacion_202601.csv
 •	tablero_indicadores_informacion_202601.xlsx
 •	manifiesto_ejecucion.json
-========================================================================
+
 
 8. Trazabilidad
 
 El proceso genera versiones de las fuentes originales y calcula el hash SHA-256 de los archivos finales para facilitar la trazabilidad y verificar su integridad.
 
-==========================================================================
+
 
 9. Reglas de trabajo del equipo
 
