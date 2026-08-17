@@ -11,11 +11,15 @@ README – Diseñar un flujo analítico reproducible
 El proyecto integra información proveniente de diferentes fuentes de datos para realizar un proceso reproducible de lectura, validación, transformación, integración y generación de resultados.
 
 ========================================================================
+
+
 2. Fuentes de datos
 
 •	empleados.xlsx
 •	socioeconomico.csv
 •	educacion.json
+
+
 ========================================================================
 
 3. Estructura del proyecto
